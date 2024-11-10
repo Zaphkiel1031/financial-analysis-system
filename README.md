@@ -29,7 +29,3 @@
 
 - Python 3.8+
 - 相關Python套件（見 requirements.txt）
-
-## 安裝步驟
-
-1. 克隆專案： 

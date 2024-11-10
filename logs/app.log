@@ -1,0 +1,22 @@
+2024-11-09 17:44:01,051 - __main__ - INFO - Starting financial analysis system...
+2024-11-09 17:44:01,440 - __main__ - INFO - Starting podcast crawling...
+2024-11-09 17:44:04,299 - src.crawler - INFO - Successfully fetched 468 entries from https://rss.art19.com/yahoofinancepresents
+2024-11-09 17:44:04,301 - src.crawler - INFO - Successfully fetched 0 entries from <https://feeds.simplecast.com/_qvRgwME>
+2024-11-09 17:44:04,302 - src.crawler - INFO - Successfully fetched 0 entries from <https://feeds.npr.org/510289/podcast.xml>
+2024-11-09 17:44:04,303 - src.crawler - INFO - Successfully fetched 0 entries from <https://video-api.wsj.com/podcast/rss/wsj/minute-briefing>
+2024-11-09 17:44:04,304 - src.crawler - INFO - Successfully fetched 0 entries from <https://rss.art19.com/forbes-daily-briefing>
+2024-11-09 17:44:04,307 - src.crawler - INFO - Successfully fetched 0 entries from <https://rss.art19.com/5-things>
+2024-11-09 17:44:04,307 - src.crawler - INFO - Successfully fetched 0 entries from <https://rss.art19.com/steve-forbes-whats-ahead>
+2024-11-09 17:44:04,308 - src.crawler - INFO - Successfully fetched 0 entries from <https://feeds.sounder.fm/18447/rss.xml>
+2024-11-09 17:44:04,309 - src.crawler - INFO - Successfully fetched 0 entries from <https://video-api.wsj.com/podcast/rss/wsj/the-journal>
+2024-11-09 17:44:04,310 - src.crawler - INFO - Successfully fetched 0 entries from <https://www.ft.com/behind-the-money?format=rss>
+2024-11-09 17:44:04,311 - src.crawler - INFO - Successfully fetched 0 entries from <https://www.ft.com/money-clinic-with-claer-barrett?format=rss>
+2024-11-09 17:44:04,312 - src.crawler - INFO - Successfully fetched 0 entries from <https://www.marketplace.org/feed/podcast/marketplace>
+2024-11-09 17:44:04,312 - src.crawler - INFO - Successfully fetched 0 entries from <https://rss.art19.com/thoughts-on-the-market>
+2024-11-09 17:44:04,313 - src.crawler - INFO - Successfully fetched 0 entries from <https://rss.art19.com/the-bid>
+2024-11-09 17:44:04,314 - src.crawler - INFO - Successfully fetched 0 entries from <https://rss.art19.com/biggerpockets-money-podcast>
+2024-11-09 17:44:04,314 - src.crawler - INFO - Successfully fetched 0 entries from <https://feeds.blubrry.com/feeds/schiffradio.xml>http://www.jpmorgan.com/rss/podcasts/markets-macro.xml
+2024-11-09 17:44:06,334 - src.crawler - INFO - Successfully fetched 0 entries from http://www.jpmorgan.com/rss/podcasts/investment-insights.xml
+2024-11-09 17:44:06,334 - __main__ - INFO - Starting text analysis...
+2024-11-09 17:44:12,349 - __main__ - INFO - Saving results...
+2024-11-09 17:44:12,389 - __main__ - INFO - Analysis completed successfully!
